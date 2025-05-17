@@ -11,7 +11,8 @@ Test set up:
     - KS0470 Keyestudio servo shield: https://wiki.keyestudio.com/KS0470_Keyestudio_4WD_BT_Robot_Car_V2.0_Kit_for_Arduino
     - Tutorial test set up:  https://www.youtube.com/watch?v=TkA2LJctU1c
 
-Assembly leg
+Assembly leg:
+
 To assemble the remaining 3 legs with the improved design, the parts must
  be printed and supports removed. This is most easily done with a box cutter.
  For the 2 legs on the opposite side of the Quad-Ex, the designs must be flipped
