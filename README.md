@@ -1,5 +1,5 @@
 # Quad-Ex-Leg-Improvement
-This repository contains the Fusion 360 design, sliced print files, and test setup for the Quad-Ex leg improvements (Prototyping May 2025). The improvements focus on reducing play by adding side pockets and extra bearings to the original design. Below a description how to assemble the Quad-Ex.
+This repository contains the Fusion 360 design, sliced print files, and test setup for the Quad-Ex leg improvements (Prototyping May 2025). The improvements focus on reducing play by adding side pockets and extra bearings to the original design. Below is a description of how to assemble the Quad-Ex leg.
 
 Design folder:
 - Fusion 360 design, sliced print files, and 3D-printing settings.
